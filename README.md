@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jake 'alquimista' Lee
-- 👀 I’m interested in all kind of software optimization, especially on ARM architectures
+- 👀 I’m interested in all kinds of software optimization, especially on ARM architectures
 - 🌱 I’m currently learning machine learning / AI
 - 💞️ I’m looking to collaborate on OpenCV / AI
 - 📫 How to reach me ... TBA
